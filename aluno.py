@@ -11,3 +11,7 @@ class Aluno:
         
     def assistir_aula(self, disciplina):
         print(f"{self.nome} está assistindo à aula de {disciplina}.")
+
+
+    def tarefa(self, tarefa):
+        print(f"{self.nome} está fazendo {tarefa}.")

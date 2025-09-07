@@ -2,3 +2,5 @@ Esse é um projeto desenvolvido para alunos do ensino médio por um professor de
 Logo, se você é um programador profissional esse trabalho está fora do seu escopo e não ser um desafio para você.
 
 No mais qualquer um pode utilizar os códigos aqui postados.
+
+versão: 2025 + 
